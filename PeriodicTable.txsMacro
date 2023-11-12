@@ -1,7 +1,7 @@
 {
     "abbrev": "",
     "description": [
-        ""
+        "A macro for looking up the symbol, name, and atomic number of elements on the periodic table."
     ],
     "formatVersion": 1,
     "menu": "",
