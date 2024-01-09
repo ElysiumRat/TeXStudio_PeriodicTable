@@ -1,4 +1,4 @@
-# TeXStudio_PeriodicTable
+# TeXstudio_PeriodicTable
 
 A TeXstudio macro that allows for input of a an element's symbol, name, or atomic number to give you all three pieces of information about that element.
 
